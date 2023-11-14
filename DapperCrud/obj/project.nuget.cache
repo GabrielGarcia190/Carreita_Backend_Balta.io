@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ikcgvXVqQ7JzzAqKHwvyVwRa0HObR1WM/MzIrHUnBPlZeZDKHYD5QsmryDkUFtzQd67e6sDqE7hY68w7hl0wmA==",
+  "dgSpecHash": "549kDKkDMMkJHlkxfU80NCigYolJhgK+t0s1IkMtPPeTCXeJT3/kuSzw8YeocFyI7OO16LGkgDxxAqeRQ5aItQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Curso_Balta_C#\\DapperCrud\\DapperCrud.csproj",
+  "projectFilePath": "C:\\dev\\Curso_Balta.io\\DapperCrud\\DapperCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GabrielAlves\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\GabrielAlves\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
