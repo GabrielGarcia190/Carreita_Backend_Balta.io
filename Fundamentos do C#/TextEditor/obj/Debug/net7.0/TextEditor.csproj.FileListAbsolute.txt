@@ -1,0 +1,14 @@
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
