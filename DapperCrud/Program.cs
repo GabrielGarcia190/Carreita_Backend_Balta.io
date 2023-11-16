@@ -98,6 +98,35 @@ switch (escolha)
         break;
 
     case "4":
+        Console.WriteLine("Insira o código do Item que será editado");
+        var _idCurso = Console.ReadLine();
+
+        Console.WriteLine("Insira o código do nova titulo do Curso");
+        var _tituloCurso = Console.ReadLine();
+
+        Console.WriteLine("Insira o código do nova categoria do Curso");
+        var _categoriaCurso = Console.ReadLine();
+
+        Console.WriteLine("Insira o código a nova descrição do Curso");
+        var _descricaoCurso = Console.ReadLine();
+
+
+        try
+        {
+            await using (var connection = new SqlConnection(connectionString._connectionString))
+            {
+                await connection.ExecuteAsync(
+                 "UPDATE [Category] SET [Title]=@title, [Slug]=@slug, [Description]=@description WHERE [Id]=@id",
+                 new { id = _idCurso, title = _tituloCurso, slug = _categoriaCurso, description = _descricaoCurso });
+            }
+
+            Console.WriteLine("Dados salvos com sucesso");
+        }
+        catch (Exception ex)
+        {
+
+            Console.WriteLine(ex.Message);
+        }
 
         break;
 
@@ -128,4 +157,4 @@ switch (escolha)
         break;
 }
 
-
+Console.WriteLine("=====================FIM============================");
