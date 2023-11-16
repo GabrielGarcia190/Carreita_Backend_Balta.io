@@ -61,7 +61,7 @@ switch (escolha)
                     break;
                 }
                 foreach (var category in categories)
-                    Console.WriteLine("Titulo do Curso" + category.Title);
+                    Console.WriteLine($"ID: {category.Id} \nTitulo do Curso: {category.Title} \n \n ");
             }
         }
         catch (Exception ex)
@@ -87,7 +87,7 @@ switch (escolha)
                     break;
                 }
 
-                Console.WriteLine("Titulo do Curso: " + categories.Title);
+                Console.WriteLine("Titulo do Curso" + categories.Title);
             }
         }
         catch (Exception ex)
@@ -95,6 +95,33 @@ switch (escolha)
 
             Console.WriteLine(ex.Message);
         }
+        break;
+
+    case "4":
+
+        break;
+
+    case "5":
+        Console.WriteLine("Insira o código do Item que será apagado");
+        var _id = Console.ReadLine();
+
+        try
+        {
+            await using (var connection = new SqlConnection(connectionString._connectionString))
+            {
+                await connection.ExecuteAsync(
+                    "DELETE FROM [Category] WHERE [Id]=@id",
+                    new { id = _id });
+            }
+
+            Console.WriteLine("Curso removido com sucesso");
+        }
+        catch (Exception ex)
+        {
+
+            Console.WriteLine(ex.Message);
+        }
+
         break;
     default:
         Console.WriteLine("Escolha uma opção válida");
