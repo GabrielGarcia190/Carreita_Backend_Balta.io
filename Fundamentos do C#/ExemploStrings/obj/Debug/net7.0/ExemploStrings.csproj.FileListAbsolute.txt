@@ -1,0 +1,14 @@
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\bin\Debug\net7.0\ExemploStrings.exe
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\bin\Debug\net7.0\ExemploStrings.deps.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\bin\Debug\net7.0\ExemploStrings.runtimeconfig.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\bin\Debug\net7.0\ExemploStrings.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\bin\Debug\net7.0\ExemploStrings.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\refint\ExemploStrings.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ExemploStrings.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploStrings\obj\Debug\net7.0\ref\ExemploStrings.dll
