@@ -1,0 +1,14 @@
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
