@@ -13,6 +13,7 @@ namespace EditorHTML
             WriteOptions();
 
             var option = short.Parse(Console.ReadLine());
+            HandleMenuOption(option);
         }
 
         public static void DrawScreen()
@@ -65,7 +66,7 @@ namespace EditorHTML
             switch (option)
             {
                 case 1:
-                    Console.WriteLine("Editor");
+                    Editor.Show();
                     break;
                 case 2:
                     Console.WriteLine("Editor");
