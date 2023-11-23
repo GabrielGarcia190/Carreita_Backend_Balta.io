@@ -1,0 +1,14 @@
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\bin\Debug\net7.0\ExemploDatas.exe
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\bin\Debug\net7.0\ExemploDatas.deps.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\bin\Debug\net7.0\ExemploDatas.runtimeconfig.json
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\bin\Debug\net7.0\ExemploDatas.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\bin\Debug\net7.0\ExemploDatas.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\refint\ExemploDatas.dll
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.pdb
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ExemploDatas.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Fundamentos do C#\ExemploDatas\obj\Debug\net7.0\ref\ExemploDatas.dll

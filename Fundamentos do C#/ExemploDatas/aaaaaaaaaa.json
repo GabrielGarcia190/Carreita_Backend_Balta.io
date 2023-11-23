@@ -1,0 +1,98 @@
+[
+    {
+        "Visivel": true,
+        "Indice": 2,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Nº Pedido",
+        "NomeDoCampo": "NumeroPedido",
+        "NomeDaColuna": "colNumeroPedido"
+    },
+    {
+        "Visivel": true,
+        "Indice": 3,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Data Lançamento",
+        "NomeDoCampo": "DataLancamento",
+        "NomeDaColuna": "colDataLancamento"
+    },
+    {
+        "Visivel": false,
+        "Indice": 4,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Nome do Cliente",
+        "NomeDoCampo": "NomeCliente",
+        "NomeDaColuna": "colNomeCliente"
+    },
+    {
+        "Visivel": false,
+        "Indice": 5,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Convênio",
+        "NomeDoCampo": "Convenio",
+        "NomeDaColuna": "colConvenio"
+    },
+    {
+        "Visivel": true,
+        "Indice": 6,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Cupom",
+        "NomeDoCampo": "Cupom",
+        "NomeDaColuna": "colCupom"
+    },
+    {
+        "Visivel": false,
+        "Indice": 7,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Número",
+        "NomeDoCampo": "Numero",
+        "NomeDaColuna": "colNumero"
+    },
+    {
+        "Visivel": false,
+        "Indice": 8,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Valor",
+        "NomeDoCampo": "Total",
+        "NomeDaColuna": "colValor"
+    },
+    {
+        "Visivel": false,
+        "Indice": 9,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Dias",
+        "NomeDoCampo": "Dias",
+        "NomeDaColuna": "colDias"
+    },
+    {
+        "Visivel": false,
+        "Indice": 10,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Juros/Multa",
+        "NomeDoCampo": "Juros",
+        "NomeDaColuna": "colJurosMulta"
+    },
+    {
+        "Visivel": false,
+        "Indice": 11,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Vencimento",
+        "NomeDoCampo": "Vencimento",
+        "NomeDaColuna": "colVencimento"
+    },
+    {
+        "Visivel": true,
+        "Indice": 12,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Saldo",
+        "NomeDoCampo": "Saldo",
+        "NomeDaColuna": "colSaldo"
+    },
+    {
+        "Visivel": true,
+        "Indice": 13,
+        "Agrupamento": "INFORMAÇÕES DO FILTRO",
+        "Titulo": "Empresa",
+        "NomeDoCampo": "Empresa",
+        "NomeDaColuna": "colEmpresa"
+    }
+]
