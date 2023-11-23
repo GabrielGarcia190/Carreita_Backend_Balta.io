@@ -11,7 +11,7 @@ namespace Moedas
             decimal valor = 10.25m;
             Console.WriteLine(valor.ToString(
             "C",
-            CultureInfo.CreateSpecificCulture("pt-BR"));
+            CultureInfo.CreateSpecificCulture("pt-BR")));
         }
     }
 
