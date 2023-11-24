@@ -1,0 +1,14 @@
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\bin\Debug\net7.0\Balta.exe
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\bin\Debug\net7.0\Balta.deps.json
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\bin\Debug\net7.0\Balta.runtimeconfig.json
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\bin\Debug\net7.0\Balta.dll
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\bin\Debug\net7.0\Balta.pdb
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.dll
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\refint\Balta.dll
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.pdb
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\Balta.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Fundamentos_Orientacao_Objetos\Balta\obj\Debug\net7.0\ref\Balta.dll
