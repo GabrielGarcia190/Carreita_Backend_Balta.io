@@ -1,0 +1,1 @@
+SELECT Nome, SobreNome FROM Cadastro
