@@ -1,0 +1,102 @@
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.exe
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.deps.json
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.runtimeconfig.json
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.pdb
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Core.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Identity.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.AssemblyReference.cache
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CopyComplete
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\refint\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\FundamentosDapper\BaltaDataAccess\bin\Debug\net7.0\Dapper.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.exe
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.deps.json
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.runtimeconfig.json
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\BaltaDataAccess.pdb
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Core.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Azure.Identity.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Dapper.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Memory.Data.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.AssemblyReference.cache
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.csproj.CopyComplete
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\refint\BaltaDataAccess.dll
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Acesso a dados com Dapper\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
