@@ -9,7 +9,7 @@ namespace BaltaDataAccess
         static void Main(string[] args)
         {
             Console.Clear();
-            const string connectionString = "Data Source=GARCIA-PC\\SQL2022 ;Initial Catalog=CursoBalta;User ID=sa; pwd=inovafarmaI;Encrypt=False;";
+            const string connectionString = "Data Source=NomeDoServidor\\SQL2022 ;Initial Catalog=NomeDoBanco;User ID=sa; pwd=SenhaDoSQL;Encrypt=False;";
 
             using (var connection = new SqlConnection(connectionString))
             {
