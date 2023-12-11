@@ -1,6 +1,7 @@
 using Blog.Models;
 using BLog.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 
 namespace Blog.Data
 {
@@ -15,6 +16,9 @@ namespace Blog.Data
         // public DbSet<UserRole> UserRoles { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-        => options.UseSqlServer(@"Data Source=GARCIA-PC\SQL2022 ;Initial Catalog=Blog;User ID=sa; pwd=inovafarmaI;Encrypt=False;");
+        {
+            options.UseSqlServer(@"Data Source=GARCIA-PC\SQL2022 ;Initial Catalog=Blog;User ID=sa; pwd=inovafarmaI;Encrypt=False;");
+            options.LogTo(Console.WriteLine);
+        }
     }
 }
