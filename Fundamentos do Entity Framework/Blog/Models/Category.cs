@@ -1,23 +1,13 @@
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+using System.Collections.Generic;
+using BLog.Models;
 
 namespace Blog.Models
 {
-    [Table("Category")]
     public class Category
     {
-        [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
-
-        [Required]
-        [MaxLength(80)]
-        [Column("Nome", TypeName = "TIPO_DE_DADOS")]
-        public required string Name { get; set; }
-
-        [Required]
-        [MaxLength(80)]
-        [Column("Slug", TypeName = "TIPO_DE_DADOS")]
-        public required string Slug { get; set; }
+        public string? Name { get; set; }
+        public string? Slug { get; set; }
+        public IList<Post>? Posts { get; set; }
     }
 }

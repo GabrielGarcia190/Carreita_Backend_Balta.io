@@ -1,5 +1,6 @@
 ﻿using Blog.Data;
 using Blog.Models;
+using BLog.Models;
 
 namespace Blog
 {
@@ -7,32 +8,37 @@ namespace Blog
     {
         static void Main(string[] args)
         {
-            using (var context = new BlogDataContext())
+            using var context = new BlogDataContext();
+
+            var user = new User
             {
-                //CREATE
-                // var tag = new Tag { Name = "ASP.NET", Slug = "aspnet" };
-                // context.Tags.Add(tag);
-                // context.SaveChanges();
+                Bio = "9x Microsoft MVP",
+                Email = "andre@balta.io",
+                Image = "https://balta.io",
+                Name = "André Baltieri",
+                PasswordHash = "1234",
+                Slug = "andre-baltieri"
+            };
 
-                //UPDATE
-                // var tag = context.Tags.FirstOrDefault(x => x.Id == 2);
-                // tag.Name = ".NET";
-                // tag.Slug = "dotnet";
-                // context.Update(tag);
-                // context.SaveChanges();
-
-                //DELETE
-                // var tag = context.Tags.FirstOrDefault(x => x.Id == 2);
-                // context.Remove(tag);
-                // context.SaveChanges();
-
-                var tags = context.Tags.ToList();
-
-                foreach (var tag in tags)
-                {
-                    Console.WriteLine(tag.Name);
-                }
-            }
+            context.Users.Add(user);
+            context.SaveChanges();
+            // var user = context.Users.FirstOrDefault();
+            // var post = new Post
+            // {
+            //     Author = user,
+            //     Body = "Meu artigo",
+            //     Category = new Category
+            //     {
+            //         Name = "Backend",
+            //         Slug = "backend"
+            //     },
+            //     CreateDate = System.DateTime.Now,
+            //     Slug = "meu-artigo",
+            //     Summary = "Neste artigo vamos conferir...",
+            //     Title = "Meu artigo"
+            // };
+            // context.Posts.Add(post);
+            // context.SaveChanges();
         }
     }
 }
