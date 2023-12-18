@@ -1,22 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Curso_Balta.io\\MinhaApi\\MinhaApi.csproj": {}
+    "C:\\dev\\Curso_Balta.io\\Fundamentos do ASP.NET 6\\MinhaApi\\MinhaApi.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Curso_Balta.io\\MinhaApi\\MinhaApi.csproj": {
+    "C:\\dev\\Curso_Balta.io\\Fundamentos do ASP.NET 6\\MinhaApi\\MinhaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Curso_Balta.io\\MinhaApi\\MinhaApi.csproj",
+        "projectUniqueName": "C:\\dev\\Curso_Balta.io\\Fundamentos do ASP.NET 6\\MinhaApi\\MinhaApi.csproj",
         "projectName": "MinhaApi",
-        "projectPath": "C:\\dev\\Curso_Balta.io\\MinhaApi\\MinhaApi.csproj",
+        "projectPath": "C:\\dev\\Curso_Balta.io\\Fundamentos do ASP.NET 6\\MinhaApi\\MinhaApi.csproj",
         "packagesPath": "C:\\Users\\GabrielAlves\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Curso_Balta.io\\MinhaApi\\obj\\",
+        "outputPath": "C:\\dev\\Curso_Balta.io\\Fundamentos do ASP.NET 6\\MinhaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
+          "C:\\dev\\Curso_Balta.io\\NuGet.Config",
           "C:\\Users\\GabrielAlves\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -25,7 +26,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
