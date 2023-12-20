@@ -1,4 +1,4 @@
-namespace Blog.ViewModels
+﻿namespace Blog.ViewModels
 {
     public class ResultViewModel<T>
     {
@@ -23,7 +23,7 @@ namespace Blog.ViewModels
             Errors.Add(error);
         }
 
-        public T? Data { get; private set; }
+        public T Data { get; private set; }
         public List<string> Errors { get; private set; } = new();
     }
 }
