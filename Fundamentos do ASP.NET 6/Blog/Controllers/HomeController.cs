@@ -1,15 +1,15 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Blog.Attibutes;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Blog.Controllers
 {
     [ApiController]
     [Route("")]
+    // [ApiKey]
     public class HomeController : ControllerBase
     {
         [HttpGet("")]
-        public IActionResult Get()
-        {
-            return Ok();
-        }
+        [ApiKey]
+        public IActionResult Get() => Ok(new { Mensagem = "Status: Operante" });
     }
 }

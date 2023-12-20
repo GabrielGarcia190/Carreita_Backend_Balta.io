@@ -10,7 +10,7 @@ namespace Blog.Data
         public DbSet<Post> Posts { get; set; }
         public DbSet<User> Users { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlServer(@"Data Source=Nome_do_computador\SQL2022; Initial Catalog=Blog;User ID=sa; pwd=senha_do_banco_de_dados;Encrypt=False;");
+            => options.UseSqlServer(@"Data Source=GARCIA-PC\SQL2022; Initial Catalog=Blog;User ID=sa; pwd=inovafarmaI;Encrypt=False;");
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
