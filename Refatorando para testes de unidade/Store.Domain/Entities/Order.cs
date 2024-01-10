@@ -1,3 +1,4 @@
+using Flunt.Validations;
 using Store.Domain.Enuns;
 
 namespace Store.Domain.Entities
@@ -6,6 +7,11 @@ namespace Store.Domain.Entities
     {
         public Order(Customer customer, decimal deliveryFee, Discount discount)
         {
+            AddNotifications(
+                new Contract<Order>()
+                .Requires()
+                .IsNotNull(customer, "Customer", "Cliente iválido")
+            );
 
             Customer = customer;
             Date = DateTime.Now;
@@ -27,6 +33,7 @@ namespace Store.Domain.Entities
         public void AddItem(Product product, int quantity)
         {
             var item = new OrderItem(product, quantity);
+            if(item.IsValid)
                 Items.Add(item);
         }
 
