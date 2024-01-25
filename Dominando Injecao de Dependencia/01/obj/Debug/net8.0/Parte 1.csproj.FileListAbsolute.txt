@@ -1,0 +1,128 @@
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\appsettings.Development.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\appsettings.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Parte 1.exe
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Parte 1.deps.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Parte 1.runtimeconfig.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Parte 1.pdb
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Azure.Core.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Azure.Identity.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Dapper.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\RestSharp.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.csproj.AssemblyReference.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.sourcelink.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets\msbuild.Parte 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\scopedcss\bundle\Parte 1.styles.css
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.csproj.CopyComplete
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\refint\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.pdb
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\Parte 1.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte 1\obj\Debug\net8.0\ref\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\appsettings.Development.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\appsettings.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Parte 1.exe
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Parte 1.deps.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Parte 1.runtimeconfig.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Parte 1.pdb
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Azure.Core.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Azure.Identity.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Dapper.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\RestSharp.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.csproj.AssemblyReference.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.AssemblyInfoInputs.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.AssemblyInfo.cs
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.csproj.CoreCompileInputs.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.sourcelink.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets.build.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets.development.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets\msbuild.Parte 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets\msbuild.build.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Parte 1.props
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\scopedcss\bundle\Parte 1.styles.css
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.csproj.CopyComplete
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\refint\Parte 1.dll
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.pdb
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\Parte 1.genruntimeconfig.cache
+C:\dev\Curso_Balta.io\Dominando Injecao de Dependencia\Parte1\obj\Debug\net8.0\ref\Parte 1.dll

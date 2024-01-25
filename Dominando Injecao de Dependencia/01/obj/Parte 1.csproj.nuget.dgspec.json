@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\Curso_Balta.io\\Dominando Injecao de Dependencia\\Parte1\\Parte 1.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\Curso_Balta.io\\Dominando Injecao de Dependencia\\Parte1\\Parte 1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Curso_Balta.io\\Dominando Injecao de Dependencia\\Parte1\\Parte 1.csproj",
+        "projectName": "Parte 1",
+        "projectPath": "C:\\dev\\Curso_Balta.io\\Dominando Injecao de Dependencia\\Parte1\\Parte 1.csproj",
+        "packagesPath": "C:\\Users\\GabrielAlves\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Curso_Balta.io\\Dominando Injecao de Dependencia\\Parte1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\dev\\Curso_Balta.io\\NuGet.Config",
+          "C:\\Users\\GabrielAlves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.1.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

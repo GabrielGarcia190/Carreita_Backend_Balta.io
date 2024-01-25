@@ -3,7 +3,7 @@ using Microsoft.Data.SqlClient;
 using Parte1.Models;
 using Parte1.Repositories.Contracts;
 
-namespace Parte1.Repository;
+namespace Parte1.Repositories;
 
 public class CustomerRepository : ICustomerRepository
 {
