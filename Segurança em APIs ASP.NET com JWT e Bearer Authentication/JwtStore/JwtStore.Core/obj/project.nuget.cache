@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPH8QpPrEys3otXjlJD/4yMVvUb8I+Rj3nkqJPaNQSNuAMGDeM4w+6swLRmu3My5R8Zk2Ug6xIMyDVLnxu+r/Q==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Curso_Balta.io\\Segurança em APIs ASP.NET com JWT e Bearer Authentication\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GabrielAlves\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\GabrielAlves\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\GabrielAlves\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\GabrielAlves\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
